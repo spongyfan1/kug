@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+	color: white;
+}
+.navbar {
+	background-color: deepskyblue;
+}
+.currentPage {
+	color: deepskyblue;
+}
+.link {
+	background-color: deepskyblue;
+	color: black
+}
